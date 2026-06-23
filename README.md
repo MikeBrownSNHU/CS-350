@@ -1,7 +1,6 @@
 # CS 350 Portfolio Reflection
 Mike Brown 06/22/2026
 
-## Selected Artifacts
 
 ### Thermostat Final Project
 
