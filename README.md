@@ -11,8 +11,6 @@ This was the biggest project in the course and brought together most of the conc
 
 This project focused on controlling hardware through serial communication. Commands were sent from a client to a server running on the Raspberry Pi, which then controlled an LED. I chose this project because it demonstrates communication between systems and troubleshooting hardware and software together.
 
----
-
 ## Summarize the project and what problem it was solving
 
 The projects in this course focused on learning how software can interact with physical hardware. Through different labs and the final project, I learned how to read data from sensors, control outputs, communicate between devices, and organize program behavior using state machines. The thermostat project solved a simple real-world problem by monitoring temperature and allowing a user to change operating modes and temperature settings.
